@@ -4,7 +4,7 @@
 client
 dev tun
 proto udp
-remote 139.59.105.33 1194
+remote 139.59.105.33 1194 udp
 resolv-retry infinite
 nobind
 persist-key
